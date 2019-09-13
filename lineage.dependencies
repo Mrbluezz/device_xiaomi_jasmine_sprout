@@ -3,5 +3,10 @@
     "repository": "subhajeetmuhuri/device_xiaomi_wayne-common",
     "target_path": "device/xiaomi/wayne-common",
     "branch" : "lineage-18.1-4.4"
+  },
+  {
+    "repository": "AICP/device_twrp",
+    "target_path": "device/twrp/jasmine_sprout",
+    "branch": "jasmine_sprout"
   }
 ]
